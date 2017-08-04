@@ -4,7 +4,7 @@
 
 - [General](#general-resources)
 - [Git](#git)
-- [HTML / CSS and others](#html-/-css-and-others)
+- [HTML / CSS and others](#html--css-and-others)
 - [JavaScript](#JavaScript)
 - [OpenGL](#opengl)
 - [Reverse Engineering](#reverse-engineering)
