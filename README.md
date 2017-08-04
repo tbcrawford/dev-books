@@ -5,7 +5,7 @@
 - [General](#general-resources)
 - [Git](#git)
 - [HTML / CSS and others](#html--css-and-others)
-- [JavaScript](#JavaScript)
+- [JavaScript](#javascript)
 - [OpenGL](#opengl)
 - [Reverse Engineering](#reverse-engineering)
 - [Rust](#rust)
