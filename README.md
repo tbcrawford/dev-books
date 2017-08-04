@@ -6,6 +6,7 @@
 - [Git](#git)
 - [HTML / CSS and others](#html--css-and-others)
 - [JavaScript](#javascript)
+- [Markdown](#markdown)
 - [OpenGL](#opengl)
 - [Reverse Engineering](#reverse-engineering)
 - [Rust](#rust)
@@ -15,6 +16,10 @@
     - Attempts to be a quick reference/cheat sheet for many languages by showing you an example program with many language components in one file
 - [Packtpub](https://www.packtpub.com/packt/offers/free-learning)
     - Offers free books daily
+- [Awesome Guidelines](https://github.com/Kristories/awesome-guidelines)
+    - Style guidelines for many different languages
+- [Learn Regex](https://github.com/zeeshanu/learn-regex)
+    - GitHub resource for learning regex "The Easy Way"
 
 ## Git
 - [Git - The Simple Guide](http://rogerdudler.github.io/git-guide/)
@@ -31,6 +36,9 @@
     - Fantastic online book for graphical programming with p5js and learning AI concepts
 - [The Modern JavaScript Tutorial](http://javascript.info/)
     - Want to learn how to do some great things in JavaScript and write better JavaScript. Well here you go!
+
+## Markdown
+- [Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## OpenGL
 - [Learn OpenGL](https://learnopengl.com/) - ~2014
