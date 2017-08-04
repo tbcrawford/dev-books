@@ -4,7 +4,7 @@
 
 - [General](#general-resources)
 - [Git](#git)
-- [HTML / CSS and others (Web Styling)](#html-css)
+- [HTML / CSS and others](#html-/-css-and-others)
 - [JavaScript](#JavaScript)
 - [OpenGL](#opengl)
 - [Reverse Engineering](#reverse-engineering)
@@ -20,7 +20,7 @@
 - [Git - The Simple Guide](http://rogerdudler.github.io/git-guide/)
     - Forget how to do something in Git via console? It's probably here as a quick resource.
 
-## HTML / CSS and others (Web Styling)
+## HTML / CSS and others
 - [htmlreference.io](http://htmlreference.io/)
     - Beautiful, clear, and concise examples for all things HTML
 - [cssreference.io](http://cssreference.io/)
