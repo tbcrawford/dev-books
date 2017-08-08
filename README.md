@@ -41,6 +41,8 @@
 - [Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## OpenGL
+- [Sonar Systems Modern OpenGL 3.0+ YouTube Tutorials](https://goo.gl/rfxxbo)
+    - Start Aug 2016 - Present (July 2017)
 - [Learn OpenGL](https://learnopengl.com/) - ~2014
     - Web book/tutorial series
 - [OpenGL Programming Guide 8th Edition](https://www.ics.uci.edu/~gopi/CS211B/opengl_programming_guide_8th_edition.pdf) - 2013
