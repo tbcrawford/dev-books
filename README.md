@@ -3,6 +3,7 @@
 ## Contents
 
 - [General](#general-resources)
+- [Design Patterns](#design-patterns)
 - [Git](#git)
 - [HTML / CSS and others](#html--css-and-others)
 - [JavaScript](#javascript)
@@ -20,6 +21,10 @@
     - Style guidelines for many different languages
 - [Learn Regex](https://github.com/zeeshanu/learn-regex)
     - GitHub resource for learning regex "The Easy Way"
+
+## Design Patterns
+- [Java Design Pattern Examples](https://github.com/iluwatar/java-design-patterns)
+    - Provides design pattern examples for most or all design patterns in Java
 
 ## Git
 - [Git - The Simple Guide](http://rogerdudler.github.io/git-guide/)
