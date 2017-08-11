@@ -6,6 +6,7 @@
 - [Design Patterns](#design-patterns)
 - [Git](#git)
 - [HTML / CSS and others](#html--css-and-others)
+- [Java](#java)
 - [JavaScript](#javascript)
 - [Markdown](#markdown)
 - [OpenGL](#opengl)
@@ -35,6 +36,10 @@
     - Beautiful, clear, and concise examples for all things HTML
 - [cssreference.io](http://cssreference.io/)
     - Beautiful, clear, and concise examples for all things CSS
+
+## Java
+- [Java Guidelines - by 47 Degrees](https://github.com/47deg/coding-guidelines/tree/master/java)
+    - Provides quick Correct - Incorrect scenarios (basically the DOs/DON'Ts)
 
 ## JavaScript
 - [The Nature of Code](http://natureofcode.com/book/)
