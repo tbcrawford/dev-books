@@ -26,6 +26,8 @@
 ## Design Patterns
 - [Java Design Pattern Examples](https://github.com/iluwatar/java-design-patterns)
     - Provides design pattern examples for most or all design patterns in Java
+- [Design Patterns - Sourcemaking](https://sourcemaking.com/design_patterns)
+    - Provides design pattern details and examples in multiple languages
 
 ## Git
 - [Git - The Simple Guide](http://rogerdudler.github.io/git-guide/)
